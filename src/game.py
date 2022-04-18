@@ -28,7 +28,7 @@ class Game(QMainWindow):
         print('Answer:', self.answer)
 
         # Set window attributes.
-        self.setFixedSize(QSize(480, 120))
+        self.setFixedWidth(480)
         self.setWindowTitle('Guessing Game')
 
         # Set the central widget.
