@@ -1,0 +1,8 @@
+# Ignore virtualenv directory.
+**/venv
+
+# Ignore IntelliJ configurations.
+**/.idea
+
+# Ignore python cache files.
+**/__pycache__
